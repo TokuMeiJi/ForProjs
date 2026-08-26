@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+    <body>
+
+        <h1>
+            <center><b><i><u>Sean Marcus Andrei Ison</u></i></b></center>
+        </h1>
+
+
+        <img src="25-13504-692.jpg"
+             width="200"
+             height="200"
+             alt="My Picture">
+
+    <br>
+
+    <h2>My Hobbies</h2>
+
+    <ol>
+        <li>Playing video games</li>
+        <li>Watching anime</li>
+        <li>Reading manga</li>
+        <li>Church activities</li>
+        <li>Learning about computers</li>
+    </ol>
+
+
+    <audio controls autoplay>
+        <source src="Nevergonna.mp3"
+                type="audio/mpeg"
+                alt= ayaw po mag auto sir sa chrome at edge>
+    </audio>
+
+    <br><br>
+
+    <video width="500" controls>
+        <source src="Cars.mp4"
+                type="video/mp4">
+    </video>
+
+
+    <h2>My College Journey</h2>
+
+    <p>
+        So far my journey in college is for me great, I acomplish almost anything on time.
+        I also take note of things that was taught to me. 
+        And I have been able to maintain my grade to not failing. 
+        I am still looking forward to learn more about things that are included in the IT industries via the curriculum.
+    </p>
+
+</body>
+</html>
+```
